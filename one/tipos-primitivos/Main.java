@@ -5,6 +5,9 @@ public class Main {
         short s = 32767;
         int i = 2147483647;
         long l = Long.MAX_VALUE;
+        float f = 0.41489f;
+        double d = 0.414898272341234;
         boolean bool = true || false;
+        System.out.println(d);
     }
 }
